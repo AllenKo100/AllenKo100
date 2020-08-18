@@ -1,4 +1,9 @@
-### Hi there 👋
+### ⚡ Mia San Mia ⚡
+
+<img src="https://media0.giphy.com/media/RLoLbX4U7vvTEoyhGv/giphy.gif" width="400px">
+
+### ⚡ Allen Kovačević ⚡
+### ⚡ Faculty of Electrical Engineering Sarajevo ⚡
 
 <!--
 **AllenKo100/AllenKo100** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
