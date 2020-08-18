@@ -4,7 +4,7 @@
 
 ### ⚡ Allen Kovačević ⚡
 ### ⚡ Faculty of Electrical Engineering Sarajevo ⚡
-### ⚡ 21 ⚡
+### ⚡ Computer Science and Informatics ⚡
 
 <!--
 **AllenKo100/AllenKo100** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
